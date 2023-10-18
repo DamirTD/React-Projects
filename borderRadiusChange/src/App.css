@@ -1,0 +1,33 @@
+#root {
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.text_area {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: bisque;
+  width: 650px;
+  height: 650px;
+}
+
+.top-inputs {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.bottom-inputs {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  text-transform: uppercase;
+  padding: 10px;
+  background-color: aqua;
+}
